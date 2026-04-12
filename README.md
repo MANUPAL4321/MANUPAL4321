@@ -22,6 +22,7 @@ I am a Full-Stack Developer and an AI & Data Science Enthusiast based in India, 
 
 ## 🏆 Achievements
 
+<img src="leetcode-logo-url" width="20"/> LeetCode
 💻 Solved **600+ DSA problems** on [LeetCode](https://leetcode.com/u/manusitare2003/)   
 📈 Strong foundation in Data Structures & Algorithms  
 🚀 Consistently solving problems and improving problem-solving skills   
@@ -30,6 +31,7 @@ I am a Full-Stack Developer and an AI & Data Science Enthusiast based in India, 
 
 ## 📜 Certifications
 
+<img src="https://img.icons8.com/color/48/amazon.png" width="20"/> Amazon
 🧠 [ML Summer School — Amazon](https://drive.google.com/file/d/1BgV7xWjPiHVPSbQl9mBY4Dex2uH5reKQ/view)
 
 🌐 [Web Development (MERN Stack) — Udemy](https://drive.google.com/file/d/1GiVqqqsNmPWJ8KissARSd8SAFicyIqfO/view)
