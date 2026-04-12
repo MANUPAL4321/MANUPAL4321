@@ -63,6 +63,12 @@ I am a **Full-Stack Developer** and an **AI & Data Science Enthusiast** based in
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/MANUPAL4321/MANUPAL4321/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🌐 Connect with Me 
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/manu-kumar-abb31828a/) 
