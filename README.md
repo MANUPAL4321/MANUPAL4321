@@ -58,11 +58,8 @@ I am a **Full-Stack Developer** and an **AI & Data Science Enthusiast** based in
 
 ---
 
-## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=MANUPAL4321&theme=radical)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MANUPAL4321&theme=radical"/>
-</p>
 
 ---
 
