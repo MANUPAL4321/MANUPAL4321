@@ -52,9 +52,9 @@ I am a **Full-Stack Developer** and an **AI & Data Science Enthusiast** based in
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MANUPAL4321&show_icons=true&theme=radical&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MANUPAL4321&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MANUPAL4321&layout=compact&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MANUPAL4321&layout=compact&theme=radical)
 
 ---
 
