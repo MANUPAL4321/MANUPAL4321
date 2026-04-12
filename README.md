@@ -1,7 +1,3 @@
-<!---
-nikhilyadav09/nikhilyadav09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # Hi, I'm Manu Kumar 👋
 
 ## 🚀 Full-Stack Developer | AI & Machine Learning Enthusiast | Building scalable web applications and intelligent systems
@@ -13,11 +9,11 @@ Welcome to my GitHub profile! Here you'll find an overview of my skills, project
 I am a Full-Stack Developer and an AI & Data Science Enthusiast based in India, currently pursuing my B.Tech in Computer Science at Sitare University. I enjoy building scalable web applications and exploring intelligent systems using modern technologies.
 
 🌍 Location: India
-🎓 Education: B.Tech in Computer Science, Sitare University
-🧠 Currently Learning: Machine Learning, Data Analytics & Generative AI
-💡 Interests: Full-Stack Development, AI/ML, Data-Driven Applications
-🤝 Open to: Collaboration on Web Development, AI/ML & Data Projects  
-✉️ **Contact**: [manujnv2003@gmail.com](mailto:manujnv2003@gmail.com)
+🎓 Education: B.Tech in Computer Science, Sitare University  
+🧠 Currently Learning: Machine Learning, Data Analytics & Generative AI  
+💡 Interests: Full-Stack Development, AI/ML, Data-Driven Applications  
+🤝 Open to: Collaboration on Web Development, AI/ML & Data Projects    
+✉️ **Contact**: [manujnv2003@gmail.com](mailto:manujnv2003@gmail.com)  
 
 ## Languages & Tools
 
