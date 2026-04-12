@@ -1,6 +1,7 @@
 # Hi, I'm Manu Kumar 👋
 
-## 🚀 Full-Stack Developer | AI & Machine Learning Enthusiast | Building scalable web applications and intelligent systems
+## 🚀 Full-Stack Developer | AI & Machine Learning Enthusiast | Building scalable web applications and intelligent systems  
+💡 Passionate about solving real-world problems using scalable systems and data-driven solutions.
 
 Welcome to my GitHub profile! Here you'll find an overview of my skills, projects, and areas of interest.
 
