@@ -22,7 +22,8 @@ I am a Full-Stack Developer and an AI & Data Science Enthusiast based in India, 
 
 ## 🏆 Achievements
 
-💻 Solved 600+ DSA problems on [LeetCode](https://leetcode.com/u/manusitare2003/)
+💻 Solved **600+ DSA problems** on [LeetCode](https://leetcode.com/u/manusitare2003/)   
+📈 Strong foundation in Data Structures & Algorithms  
 
 📜 Completed Machine Learning Summer School — Amazon
 
