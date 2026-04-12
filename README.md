@@ -23,7 +23,7 @@ I am a **Full-Stack Developer** and a **Data Science & Gen AI Enthusiast** from 
 ![User Contributions](https://raw.githubusercontent.com/nikhilyadav09/nikhilyadav09/main/github-user-contribution.svg)
 ## Socials
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](www.linkedin.com/in/manu-kumar-abb31828a) 
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](www.linkedin.com/in/manu-kumar-abb31828a/) 
 
 ## GitHub Stats
 
