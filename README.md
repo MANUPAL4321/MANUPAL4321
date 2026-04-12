@@ -26,17 +26,14 @@ I am a Full-Stack Developer and an AI & Data Science Enthusiast based in India, 
 
 ## 🏆 Achievements
 
-💻 Solved 600+ DSA problems on LeetCode
-🔗 [Visit My LeetCode Profile](https://leetcode.com/u/manusitare2003/)
+💻 Solved 600+ DSA problems on [LeetCode](https://leetcode.com/u/manusitare2003/)
 
 📜 Completed Machine Learning Summer School — Amazon
 
 ## 📜 Certifications
-🧠 ML Summer School — Amazon
-🔗 [View Certificate](https://drive.google.com/file/d/1BgV7xWjPiHVPSbQl9mBY4Dex2uH5reKQ/view)
+🧠 [ML Summer School — Amazon](https://drive.google.com/file/d/1BgV7xWjPiHVPSbQl9mBY4Dex2uH5reKQ/view)
 
-🌐 Web Development (MERN Stack) — Udemy
-🔗 [View Certificate](https://drive.google.com/file/d/1GiVqqqsNmPWJ8KissARSd8SAFicyIqfO/view)
+🌐 [Web Development (MERN Stack) — Udemy](https://drive.google.com/file/d/1GiVqqqsNmPWJ8KissARSd8SAFicyIqfO/view)
 
 ## Socials
 
