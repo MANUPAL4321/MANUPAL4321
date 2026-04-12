@@ -23,11 +23,11 @@ I am a Full-Stack Developer and an AI & Data Science Enthusiast based in India, 
 
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png) ![Flask](https://img.icons8.com/color/48/000000/flask.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![Git](https://img.icons8.com/color/48/000000/git.png)
 
-![User Contributions](https://raw.githubusercontent.com/nikhilyadav09/nikhilyadav09/main/github-user-contribution.svg)
 
 ## 🏆 Achievements
 
 💻 Solved 600+ DSA problems on LeetCode
+🔗 [Visit My LeetCode Profile](https://leetcode.com/u/manusitare2003/)
 
 📜 Completed Machine Learning Summer School — Amazon
 
@@ -44,7 +44,7 @@ I am a Full-Stack Developer and an AI & Data Science Enthusiast based in India, 
 
 ## GitHub Stats
 
-![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilyadav09&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical)  
+![Manu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilyadav09&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilyadav09&layout=compact&hide_title=true&hide_border=true&theme=radical)  
 
