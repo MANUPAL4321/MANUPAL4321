@@ -42,9 +42,9 @@ I am a Full-Stack Developer and an AI & Data Science Enthusiast based in India, 
 
 ## GitHub Stats
 
-![Manu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MANUPAL4321\&show_icons=true\&hide_title=true\&count_private=true\&hide=prs\&hide_border=true\&theme=radical)
+![Manu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MANUPAL4321&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MANUPAL4321\&layout=compact\&hide_title=true\&hide_border=true\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MANUPAL4321&layout=compact&hide_title=true&hide_border=true&theme=radical)
 
 ## Socials
 
