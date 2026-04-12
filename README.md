@@ -24,6 +24,17 @@ I am a Full-Stack Developer and an AI & Data Science Enthusiast based in India, 
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png) ![Flask](https://img.icons8.com/color/48/000000/flask.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![Git](https://img.icons8.com/color/48/000000/git.png)
 
 ![User Contributions](https://raw.githubusercontent.com/nikhilyadav09/nikhilyadav09/main/github-user-contribution.svg)
+
+## 🏆 Achievements
+💻 Solved 600+ DSA problems on LeetCode
+📜 Completed Machine Learning Summer School — Amazon
+
+## 📜 Certifications
+🧠 ML Summer School — Amazon
+🔗 [View Certificate](https://drive.google.com/file/d/1BgV7xWjPiHVPSbQl9mBY4Dex2uH5reKQ/view)
+🌐 Web Development (MERN Stack) — Udemy
+🔗 [View Certificate](https://drive.google.com/file/d/1GiVqqqsNmPWJ8KissARSd8SAFicyIqfO/view)
+
 ## Socials
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/manu-kumar-abb31828a/) 
