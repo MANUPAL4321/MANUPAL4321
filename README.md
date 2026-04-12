@@ -26,12 +26,15 @@ I am a Full-Stack Developer and an AI & Data Science Enthusiast based in India, 
 ![User Contributions](https://raw.githubusercontent.com/nikhilyadav09/nikhilyadav09/main/github-user-contribution.svg)
 
 ## 🏆 Achievements
+
 💻 Solved 600+ DSA problems on LeetCode
+
 📜 Completed Machine Learning Summer School — Amazon
 
 ## 📜 Certifications
 🧠 ML Summer School — Amazon
 🔗 [View Certificate](https://drive.google.com/file/d/1BgV7xWjPiHVPSbQl9mBY4Dex2uH5reKQ/view)
+
 🌐 Web Development (MERN Stack) — Udemy
 🔗 [View Certificate](https://drive.google.com/file/d/1GiVqqqsNmPWJ8KissARSd8SAFicyIqfO/view)
 
