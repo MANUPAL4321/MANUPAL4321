@@ -58,6 +58,14 @@ I am a **Full-Stack Developer** and an **AI & Data Science Enthusiast** based in
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MANUPAL4321&theme=radical"/>
+</p>
+
+---
+
 ## 🌐 Connect with Me 
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/manu-kumar-abb31828a/) 
