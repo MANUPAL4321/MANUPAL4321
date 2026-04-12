@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here you'll find an overview of my skills, project
 
 I am a Full-Stack Developer and an AI & Data Science Enthusiast based in India, currently pursuing my B.Tech in Computer Science at Sitare University. I enjoy building scalable web applications and exploring intelligent systems using modern technologies.
 
-🌍 Location: India
+🌍 Location: India  
 🎓 Education: B.Tech in Computer Science, Sitare University  
 🧠 Currently Learning: Machine Learning, Data Analytics & Generative AI  
 💡 Interests: Full-Stack Development, AI/ML, Data-Driven Applications  
